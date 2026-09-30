@@ -15,7 +15,7 @@ A five-factor screener and backtest over the S&P 100 (2020–2025). Pulled price
 
 ### [AI Adoption in the Fortune 500](https://github.com/joeltaipe12-del/ai-adoption-fortune500)
 
-A consulting-style analysis of AI maturity across 1,000 Fortune 500 firms (2020–2025). Remodelled a flat dataset into a star schema, answered six business questions in SQL and built three Tableau dashboards — identifying seven low-maturity firms worth $1.8T in combined revenue as consulting targets.
+A consulting-style analysis of AI maturity (2020–2025) using a synthetic dataset of 1,000 firms, 20 of them real companies. Separated real from synthetic records, remodelled the flat file into a star schema, answered six business questions in SQL and built three Tableau dashboards — flagging seven high-revenue, low-maturity firms as consulting targets.
 
 **Stack:** PostgreSQL · Tableau
 
