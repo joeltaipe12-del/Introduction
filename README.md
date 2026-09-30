@@ -1,7 +1,7 @@
 # Introduction 
 # Hi, I'm Joel 👋
 
-I'm building a data-focused portfolio using **SQL, Power BI, and Tableau**.
+I'm building a data-focused portfolio using **SQL, Python, Power BI, and Tableau**.
 
 My projects focus on exploring datasets, finding useful insights, and presenting information through clear and professional dashboards. I am interested in using data to better understand business performance, trends, customer behaviour, and areas for improvement.
 
@@ -29,6 +29,7 @@ Research into four decades of Ecuador's economy — how growth, poverty and ineq
 
 - Writing SQL queries to explore, clean, filter, and analyse data
 - Using SQL to answer business questions and identify patterns
+- Using Python to extract data from APIs and prepare it for analysis
 - Creating Power BI dashboards that turn raw data into useful insights
 - Building Tableau visualisations that are clear, interactive, and easy to understand
 - Presenting data in a way that supports better decision-making
@@ -36,6 +37,7 @@ Research into four decades of Ecuador's economy — how growth, poverty and ineq
 ## Tools I use
 
 - **SQL** for data analysis and querying
+- **Python** for data extraction — pulling data from APIs into clean, analysis-ready datasets
 - **Tableau** for visual storytelling and interactive data visualisation
 
 ## Current goal
