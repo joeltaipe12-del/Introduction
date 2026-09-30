@@ -36,7 +36,6 @@ Research into four decades of Ecuador's economy — how growth, poverty and ineq
 ## Tools I use
 
 - **SQL** for data analysis and querying
-- **Power BI** for dashboard creation and business reporting
 - **Tableau** for visual storytelling and interactive data visualisation
 
 ## Current goal
